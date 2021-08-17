@@ -1,1 +1,0 @@
-# -Advanced-Kinematics-and-Dynamics-of-Mechanisms
